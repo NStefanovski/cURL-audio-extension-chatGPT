@@ -1,0 +1,17 @@
+{
+    "name": "CURL Downloader",
+    "version": "1.0",
+    "manifest_version": 3,
+    "description": "Paste a cURL command (including cookies, Bearer token) to download the file.",
+    "permissions": [
+      "activeTab",
+      "scripting"
+    ],
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "background": {
+      "service_worker": "background.js"
+    }
+  }
+  

@@ -77,5 +77,5 @@ MIT License. This is **not** an official OpenAI/ChatGPT tool—just a user utili
 
 ### Author
 
-Created by [Nik Stefanovski / nstefanovski Handle].  
+Created by Nik Stefanovski / nstefanovski Handle].  
 For questions, open an issue or submit a pull request.
